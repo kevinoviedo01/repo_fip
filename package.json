@@ -1,0 +1,24 @@
+{
+  "name": "repo_fip-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinoviedo01/repo_fip.git"
+  },
+  "author": "kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinoviedo01/repo_fip/issues"
+  },
+  "homepage": "https://github.com/kevinoviedo01/repo_fip#readme",
+  "dependencies": {
+    "@types/node": "^18.11.2",
+    "gitignore": "^0.7.0",
+    "readline-sync": "^1.4.10"
+  }
+}
